@@ -21,7 +21,7 @@ Alt-H1
           }
       h1 {
         background: white;
-        color: red; 
+        color: purple; 
         }
       h2 {
         color: purple; 
