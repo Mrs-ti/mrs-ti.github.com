@@ -11,4 +11,4 @@ Alt-H1
 ======
 
 Alt-H2
-theme: jekyll-theme-README.md
+theme: jekyll-theme-cayman
