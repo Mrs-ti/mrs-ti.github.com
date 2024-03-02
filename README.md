@@ -34,7 +34,9 @@ Alt-H1
     </style>
   </head>
   <body>
-      <h1>My Webpage</h1>
+      <div class="logo">SEND</div>
+      <a href="/">Home</a>
+      <h1>My Webpage</h1> <a href="/">About</a> <a href="/">Contact</a>
       <h2>About Me</h2>
       <p>Hi here is a little <strong> glimpse </strong> of <em>my life</em> 
            I am a soon to be college graduate obtaining my Cybersecurity 
