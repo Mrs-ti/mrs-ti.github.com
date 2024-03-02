@@ -15,11 +15,15 @@ Alt-H1
     <title>Welcome to the world of Atiyah Everyone!</title>
   </head>
   <body>
-      <h1></h1>
-    <p>Hi here is a little <strong> glimpse of <em>my life</em></p>
+      <h1>My Webpage</h1>
+      <h2>About Me</h2>
+      <p>Hi here is a little <strong> glimpse </strong> of <em>my life</em> 
+           I am a soon to be college graduate obtaining my Cybersecurity in 
+            May. Outside of that, I love to travel, spend time with family, 
+          and of course ALL THINGS FASHION!
+        </p>
+        <button>Click here to learn more</button>
   </body>
-
-  
 </html>
 
 Alt-H2
