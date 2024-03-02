@@ -13,14 +13,22 @@ Alt-H1
 <html>
   <head>
     <title>Welcome to the world of Atiyah Everyone!</title>
+    <style>
+      h1 {
+        color; red; 
+        }
+      h2 {
+        color; purple; 
+        }
+    </style>
   </head>
   <body>
       <h1>My Webpage</h1>
       <h2>About Me</h2>
       <p>Hi here is a little <strong> glimpse </strong> of <em>my life</em> 
-           I am a soon to be college graduate obtaining my Cybersecurity in 
-            May. Outside of that, I love to travel, spend time with family, 
-          and of course ALL THINGS FASHION!
+           I am a soon to be college graduate obtaining my Cybersecurity 
+            degree in May. Outside of that, I love to travel, spend time
+          with family, and of course ALL THINGS <strong>FASHION!!!</strong>
         </p>
         <button>Click here to learn more</button>
   </body>
