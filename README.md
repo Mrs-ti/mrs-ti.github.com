@@ -14,6 +14,10 @@ Alt-H1
   <head>
     <title>Welcome to the world of Atiyah Everyone!</title>
     <style>
+        body{
+            background: black;
+            font-family: san-serif;
+          }
       h1 {
         color; red; 
         }
