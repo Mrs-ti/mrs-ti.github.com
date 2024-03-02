@@ -16,14 +16,21 @@ Alt-H1
     <style>
         body{
             background: black;
+            color: white;
             font-family: san-serif;
           }
       h1 {
-        color; red; 
+        background: white;
+        color: red; 
         }
       h2 {
-        color; purple; 
+        color: purple; 
         }
+      button {
+        background: gray;
+        border: none;
+        color: white;
+      }
     </style>
   </head>
   <body>
